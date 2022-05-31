@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **kumal3east/kumal3east** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
